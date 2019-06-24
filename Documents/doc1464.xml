@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<documents id="155567146" name="Договор">
+  <metaData>
+    <registrator>Денисов К. Е.</registrator>
+    <registr_number>123- 456</registr_number>
+    <date_registr>2019-04-19T13:56:15.2639964+03:00</date_registr>
+  </metaData>
+  <fileList>
+    <file name="док.txt">QmVZ66TbzX9zRsSBDe3R14oFpV8Qf8zJDPVgWXSnT15Dgd</file>
+  </fileList>
+  <references>
+    <ref type="2">Qmd823dJ9bzYq8rYskvzQqmceFRd4SRPZEWz1B5tPytDdZ</ref>
+    <ref type="1">QmUZodbBLrbvmTRtyownVMFpxGW7BmSvxDFip1P3GZjapa</ref>
+  </references>
+</documents>

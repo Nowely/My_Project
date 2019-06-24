@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<documents id="155567130" name="Акт Проверки">
+  <metaData>
+    <registrator>Иванов Д. Е.</registrator>
+    <registr_number>Д 123 456</registr_number>
+    <date_registr>2019-04-19T13:52:34.4071548+03:00</date_registr>
+  </metaData>
+  <fileList>
+    <file name="Аренда 2016.pdf">Qmd823dJ9bzYq8rYskvzQqmceFRd4SRPZEWz1B5tPytDdZ</file>
+  </fileList>
+  <references>
+    <ref type="1">QmUZodbBLrbvmTRtyownVMFpxGW7BmSvxDFip1P3GZjapa</ref>
+    <ref type="0">QmUZodbBLrbvmTRtyownVMFpxGW7BmSvxDFip1P3GZjapa</ref>
+    <ref type="2">QmUZodbBLrbvmTRtyownVMFpxGW7BmSvxDFip1P3GZjapa</ref>
+  </references>
+</documents>

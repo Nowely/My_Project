@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<documents id="12">
+  <metadata>
+    <registrator>Иванов И.И.</registrator>
+    <registr_number>Д 123 2019</registr_number>
+    <date_registr>12.12.2017</date_registr>
+  </metadata>
+  <file_list>
+    <file name="Аренда.pdf">yandex.ru</file>
+    <file name="Документ.docx">google.com</file>
+  </file_list>
+  <references>
+    <ref type="1">document_hash</ref>
+    <ref type="2">document_hash</ref>
+    <ref type="0">document_hash</ref>
+  </references>
+</documents>
